@@ -1,1 +1,1 @@
-# gui-contributing
+# GitHub Contribution Demo repository
